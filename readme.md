@@ -1,5 +1,7 @@
 # Twitterizer
 
+[![Build Status](https://travis-ci.org/goschevski/twitterizer.png?branch=master)](https://travis-ci.org/goschevski/twitterizer)
+
 Twitterizer is node module for linking twitter mentions, hashtags and urls.
 
 ###### Example
