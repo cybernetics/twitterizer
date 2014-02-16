@@ -1,0 +1,29 @@
+{
+  "name": "twitterizer",
+  "version": "0.0.0",
+  "description": "Make twitter links of mentions, hashtags and links in a string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec test/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/goschevski/twitterizer.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "~1.9.0"
+  },
+  "keywords": [
+    "twitter",
+    "mention",
+    "hashtag"
+  ],
+  "author": "Aleksandar Gosevski - www.goschevski.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goschevski/twitterizer/issues"
+  },
+  "homepage": "https://github.com/goschevski/twitterizer"
+}
